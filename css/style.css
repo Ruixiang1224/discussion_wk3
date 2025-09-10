@@ -2,6 +2,9 @@ body{
     background-color:blanchedalmond;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+.My_page{
+    background-color: aqua  ;
+}
 h1{
     font-weight: bold;
     color: darkorange;
